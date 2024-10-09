@@ -17,7 +17,7 @@ This repository contains a powerful and user-friendly desktop application built 
 Below is a screenshot showcasing the application's main interface:
 
 <div align="center">
-  <img src="path_to_your_screenshot.png" alt="Application Screenshot" width="600"/>
+  <img src="screenshot/pic1.png" alt="Application Screenshot" width="600"/>
 </div>
 
 ## Getting Started
