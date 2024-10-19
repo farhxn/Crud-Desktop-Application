@@ -51,6 +51,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>CRUDDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="crudoperationDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crudoperationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="crudoperationDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crudoperationDataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +100,28 @@
     </None>
     <None Include="CRUDDataSet.xss">
       <DependentUpon>CRUDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="crudoperationDataSet.xsc">
+      <DependentUpon>crudoperationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="crudoperationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>crudoperationDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="crudoperationDataSet.xss">
+      <DependentUpon>crudoperationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="crudoperationDataSet1.xsc">
+      <DependentUpon>crudoperationDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="crudoperationDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>crudoperationDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="crudoperationDataSet1.xss">
+      <DependentUpon>crudoperationDataSet1.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
